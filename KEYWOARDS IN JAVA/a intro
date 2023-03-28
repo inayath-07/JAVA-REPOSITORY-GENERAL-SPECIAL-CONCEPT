@@ -1,0 +1,7 @@
+Introduction 
+*this directory is use to use all the keywoards in java
+
+there is no need for strictfp keywoard because 
+
+Floating-point expressions are always strictly evaluated from 
+source level 17. Keyword 'strictfp' is not required
